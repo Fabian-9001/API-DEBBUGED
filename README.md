@@ -25,12 +25,12 @@
 - Tendras que crear el modelo de Users con almenos los siguientes valores: 
 ```javascript
 {
-    id: 1,
-    first_name: 'string',
-    last_name: 'string',
-    email: 'string',
-    password: 'string',
-    birthday: 'YYYY/MM/DD'
+    "id": 1,
+    "first_name": "string",
+    "last_name": "string",
+    "email": "string",
+    "password": "string",
+    "birthday": "YYYY/MM/DD"
 }
 ```
 - Ya existen ciertos archivos dentro de la carpeta users, si crees que faltan archivos crealos
